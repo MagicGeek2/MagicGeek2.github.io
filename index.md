@@ -1,11 +1,3 @@
-hello <br> there
-
-<hr>
-
-
-
-thank you 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
